@@ -3,12 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ShokaX Can
-subtitle: ''
-description: ''
-keywords:
+title: Yaogold's personal page
+subtitle: 'IOT learning'
+description: 'this page create for learning'
+keywords: IOT learning
 author: yaogold
-language: zh-cn
+language: 
+  -  zh-cn
 timezone: 'Asia/Shanghai'
 
 # URL
